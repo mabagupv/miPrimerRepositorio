@@ -1,3 +1,4 @@
 Agacharme
 Salto
 Caigo
+Prueba de colisión
